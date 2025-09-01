@@ -88,11 +88,16 @@ s.send("acknowledgement recived from the server".encode())
 
 ## Output
 
+
 ### Client
-![alt text](<Screenshot 2024-08-21 153125.png>)
+<img width="668" height="251" alt="Screenshot 2025-09-01 153530" src="https://github.com/user-attachments/assets/288c8a12-4238-4af1-99b2-20cf3d0c9cd8" />
+
 
 ### Server
-![alt text](<Screenshot 2024-08-21 153206.png>)
+<img width="668" height="277" alt="Screenshot 2025-09-01 153538" src="https://github.com/user-attachments/assets/c43e344d-4485-4389-8551-33960ebc39dc" />
+
+
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
